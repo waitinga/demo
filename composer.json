@@ -1,0 +1,18 @@
+{
+    "name": "asus/demo",
+    "require": {
+        "houdunwang/wechat": "*"
+    },
+    "authors": [
+        {
+            "name": "拿幸福开玩笑",
+            "email": "1043731386@qq.com"
+        }
+    ],
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
